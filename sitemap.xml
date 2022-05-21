@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.happyking.top/xiao-wang-ren-wu-zhi/</loc>
+    
+    <lastmod>2022-05-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.happyking.top/si-fei-zi-xing-che-gai-zao/</loc>
     
     <lastmod>2022-05-21</lastmod>
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.happyking.top/article-7/</loc>
+    <loc>https://www.happyking.top/about/index.html</loc>
     
     <lastmod>2022-05-21</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.happyking.top/about/index.html</loc>
+    <loc>https://www.happyking.top/article-7/</loc>
     
     <lastmod>2022-05-21</lastmod>
     
@@ -331,6 +340,13 @@
   </url>
   
   <url>
+    <loc>https://www.happyking.top/tags/npm%E6%8F%92%E4%BB%B6%E2%9B%B3/</loc>
+    <lastmod>2022-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.happyking.top/tags/%E6%B5%81%E6%B0%B4%E8%B4%A6%F0%9F%9B%80/</loc>
     <lastmod>2022-05-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -338,14 +354,14 @@
   </url>
   
   <url>
-    <loc>https://www.happyking.top/tags/%E4%BA%BA%E7%94%9F%E5%93%B2%E7%90%86%F0%9F%A7%AC/</loc>
+    <loc>https://www.happyking.top/tags/%E4%BA%BA%E7%89%A9%E5%BF%97%F0%9F%9B%B4/</loc>
     <lastmod>2022-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.happyking.top/tags/npm%E6%8F%92%E4%BB%B6%E2%9B%B3/</loc>
+    <loc>https://www.happyking.top/tags/%E4%BA%BA%E7%94%9F%E5%93%B2%E7%90%86%F0%9F%A7%AC/</loc>
     <lastmod>2022-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
