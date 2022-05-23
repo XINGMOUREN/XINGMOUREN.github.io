@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.happyking.top/team/</loc>
+    <loc>https://www.happyking.top/about/index.html</loc>
     
     <lastmod>2022-05-23</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://www.happyking.top/about/index.html</loc>
+    <loc>https://www.happyking.top/team/</loc>
     
-    <lastmod>2022-05-21</lastmod>
+    <lastmod>2022-05-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://www.happyking.top/gallery/gallery1/index.html</loc>
+    <loc>https://www.happyking.top/gallery/gallery2/index.html</loc>
     
     <lastmod>2022-05-20</lastmod>
     
@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://www.happyking.top/gallery/gallery2/index.html</loc>
+    <loc>https://www.happyking.top/gallery/gallery1/index.html</loc>
     
     <lastmod>2022-05-20</lastmod>
     
@@ -272,27 +272,6 @@
 
   
   <url>
-    <loc>https://www.happyking.top/tags/%E7%BC%96%E7%A8%8B%F0%9F%92%BB/</loc>
-    <lastmod>2022-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.happyking.top/tags/%E9%9A%8F%E6%83%B3%F0%9F%8E%AD/</loc>
-    <lastmod>2022-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.happyking.top/tags/%E6%95%B4%E6%B4%BB%F0%9F%8E%88/</loc>
-    <lastmod>2022-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.happyking.top/tags/Cx-taiko%E2%9C%A8/</loc>
     <lastmod>2022-05-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -315,6 +294,27 @@
   
   <url>
     <loc>https://www.happyking.top/tags/hexo%F0%9F%8E%A0/</loc>
+    <lastmod>2022-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.happyking.top/tags/%E7%BC%96%E7%A8%8B%F0%9F%92%BB/</loc>
+    <lastmod>2022-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.happyking.top/tags/%E9%9A%8F%E6%83%B3%F0%9F%8E%AD/</loc>
+    <lastmod>2022-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.happyking.top/tags/%E6%95%B4%E6%B4%BB%F0%9F%8E%88/</loc>
     <lastmod>2022-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -421,13 +421,6 @@
 
   
   <url>
-    <loc>https://www.happyking.top/categories/%E8%BD%AF%E4%BB%B6%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2022-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.happyking.top/categories/%E7%94%9F%E6%B4%BB%E7%90%90%E4%BA%8B/</loc>
     <lastmod>2022-05-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -436,6 +429,13 @@
   
   <url>
     <loc>https://www.happyking.top/categories/%E4%BC%98%E8%B4%A8%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2022-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.happyking.top/categories/%E8%BD%AF%E4%BB%B6%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2022-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
