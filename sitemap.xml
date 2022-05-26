@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.happyking.top/xiao-wang-ren-wu-zhi/</loc>
+    
+    <lastmod>2022-05-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.happyking.top/about/index.html</loc>
     
     <lastmod>2022-05-26</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://www.happyking.top/team/</loc>
     
     <lastmod>2022-05-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.happyking.top/xiao-wang-ren-wu-zhi/</loc>
-    
-    <lastmod>2022-05-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -147,15 +147,6 @@
   
   <url>
     <loc>https://www.happyking.top/article-11/</loc>
-    
-    <lastmod>2022-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.happyking.top/egg.html</loc>
     
     <lastmod>2022-05-20</lastmod>
     
