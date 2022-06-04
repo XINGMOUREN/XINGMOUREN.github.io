@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.happyking.top/article-1/</loc>
-    <lastmod>2022-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.happyking.top/article-11/</loc>
-    <lastmod>2022-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.happyking.top/article-12/</loc>
-    <lastmod>2022-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.happyking.top/article-13/</loc>
-    <lastmod>2022-06-04</lastmod>
-  </url>
-  <url>
     <loc>https://www.happyking.top/article-3/</loc>
     <lastmod>2022-06-04</lastmod>
   </url>
@@ -34,6 +18,10 @@
   </url>
   <url>
     <loc>https://www.happyking.top/article-9/</loc>
+    <lastmod>2022-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.happyking.top/article/</loc>
     <lastmod>2022-06-04</lastmod>
   </url>
   <url>
@@ -61,7 +49,19 @@
     <lastmod>2022-06-04</lastmod>
   </url>
   <url>
-    <loc>https://www.happyking.top/article/</loc>
+    <loc>https://www.happyking.top/article-1/</loc>
+    <lastmod>2022-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.happyking.top/article-11/</loc>
+    <lastmod>2022-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.happyking.top/article-12/</loc>
+    <lastmod>2022-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.happyking.top/article-13/</loc>
     <lastmod>2022-06-04</lastmod>
   </url>
 </urlset> 
