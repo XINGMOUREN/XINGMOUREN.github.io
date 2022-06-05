@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.happyking.top/article/</loc>
-    <lastmod>2022-06-05</lastmod>
-  </url>
-  <url>
-    <loc>https://www.happyking.top/dong-tai-peng-you-quan/</loc>
-    <lastmod>2022-06-05</lastmod>
-  </url>
-  <url>
-    <loc>https://www.happyking.top/xiao-wang-ren-wu-zhi/</loc>
-    <lastmod>2022-06-05</lastmod>
-  </url>
-  <url>
     <loc>https://www.happyking.top/xiao-wang-de-za-xiang/</loc>
     <lastmod>2022-06-05</lastmod>
   </url>
@@ -58,6 +46,18 @@
   </url>
   <url>
     <loc>https://www.happyking.top/article-9/</loc>
+    <lastmod>2022-06-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.happyking.top/article/</loc>
+    <lastmod>2022-06-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.happyking.top/dong-tai-peng-you-quan/</loc>
+    <lastmod>2022-06-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.happyking.top/xiao-wang-ren-wu-zhi/</loc>
     <lastmod>2022-06-05</lastmod>
   </url>
 </urlset> 
