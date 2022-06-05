@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.happyking.top/tags/index.html</loc>
+    
+    <lastmod>2022-06-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.happyking.top/gallery/index.html</loc>
     
     <lastmod>2022-06-05</lastmod>
@@ -38,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://www.happyking.top/tags/index.html</loc>
-    
-    <lastmod>2022-06-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.happyking.top/gallery/gallery1/index.html</loc>
     
     <lastmod>2022-06-05</lastmod>
@@ -66,6 +66,33 @@
   
   <url>
     <loc>https://www.happyking.top/more/money/index.html</loc>
+    
+    <lastmod>2022-06-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.happyking.top/categories/index.html</loc>
+    
+    <lastmod>2022-06-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.happyking.top/artitalk/index.html</loc>
+    
+    <lastmod>2022-06-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.happyking.top/comments/index.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -219,33 +246,6 @@
   
   <url>
     <loc>https://www.happyking.top/about/index.html</loc>
-    
-    <lastmod>2022-06-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.happyking.top/categories/index.html</loc>
-    
-    <lastmod>2022-06-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.happyking.top/artitalk/index.html</loc>
-    
-    <lastmod>2022-06-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.happyking.top/comments/index.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
