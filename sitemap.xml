@@ -74,42 +74,6 @@
   </url>
   
   <url>
-    <loc>https://www.happyking.top/about/index.html</loc>
-    
-    <lastmod>2022-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.happyking.top/artitalk/index.html</loc>
-    
-    <lastmod>2022-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.happyking.top/categories/index.html</loc>
-    
-    <lastmod>2022-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.happyking.top/comments/index.html</loc>
-    
-    <lastmod>2022-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.happyking.top/wo-de-shi-jie-jiao-cheng/</loc>
     
     <lastmod>2022-06-06</lastmod>
@@ -227,15 +191,6 @@
   </url>
   
   <url>
-    <loc>https://www.happyking.top/article-3/</loc>
-    
-    <lastmod>2022-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.happyking.top/article-1/</loc>
     
     <lastmod>2022-06-06</lastmod>
@@ -246,6 +201,42 @@
   
   <url>
     <loc>https://www.happyking.top/article/</loc>
+    
+    <lastmod>2022-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.happyking.top/about/index.html</loc>
+    
+    <lastmod>2022-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.happyking.top/artitalk/index.html</loc>
+    
+    <lastmod>2022-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.happyking.top/categories/index.html</loc>
+    
+    <lastmod>2022-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.happyking.top/comments/index.html</loc>
     
     <lastmod>2022-06-06</lastmod>
     
@@ -320,13 +311,6 @@
   
   <url>
     <loc>https://www.happyking.top/tags/hexo%F0%9F%8E%A0/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.happyking.top/tags/vue-js%F0%9F%93%8A/</loc>
     <lastmod>2022-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
