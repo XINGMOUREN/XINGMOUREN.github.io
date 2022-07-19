@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://happyking.top/gallery/index.html</loc>
-    
-    <lastmod>2022-07-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://happyking.top/link/index.html</loc>
-    
-    <lastmod>2022-07-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://happyking.top/more/index.html</loc>
     
     <lastmod>2022-07-19</lastmod>
@@ -47,6 +29,42 @@
   </url>
   
   <url>
+    <loc>https://happyking.top/more/money/index.html</loc>
+    
+    <lastmod>2022-07-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happyking.top/more/rules/index.html</loc>
+    
+    <lastmod>2022-07-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happyking.top/gallery/index.html</loc>
+    
+    <lastmod>2022-07-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happyking.top/link/index.html</loc>
+    
+    <lastmod>2022-07-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://happyking.top/gallery/6423/index.html</loc>
     
     <lastmod>2022-07-19</lastmod>
@@ -66,24 +84,6 @@
   
   <url>
     <loc>https://happyking.top/gallery/happyking/index.html</loc>
-    
-    <lastmod>2022-07-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://happyking.top/more/money/index.html</loc>
-    
-    <lastmod>2022-07-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://happyking.top/more/rules/index.html</loc>
     
     <lastmod>2022-07-19</lastmod>
     
