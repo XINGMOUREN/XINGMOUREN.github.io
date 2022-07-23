@@ -92,6 +92,42 @@
   </url>
   
   <url>
+    <loc>https://happyking.top/about/index.html</loc>
+    
+    <lastmod>2022-07-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happyking.top/artitalk/index.html</loc>
+    
+    <lastmod>2022-07-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happyking.top/categories/index.html</loc>
+    
+    <lastmod>2022-07-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happyking.top/comments/index.html</loc>
+    
+    <lastmod>2022-07-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://happyking.top/p/89789453.html</loc>
     
     <lastmod>2022-07-23</lastmod>
@@ -262,42 +298,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://happyking.top/about/index.html</loc>
-    
-    <lastmod>2022-07-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://happyking.top/artitalk/index.html</loc>
-    
-    <lastmod>2022-07-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://happyking.top/categories/index.html</loc>
-    
-    <lastmod>2022-07-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://happyking.top/comments/index.html</loc>
-    
-    <lastmod>2022-07-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://happyking.top/</loc>
@@ -379,13 +379,6 @@
   
   <url>
     <loc>https://happyking.top/tags/%E5%AD%A6%E4%B9%A0%F0%9F%93%9D/</loc>
-    <lastmod>2022-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://happyking.top/tags/JavaScript%F0%9F%91%93/</loc>
     <lastmod>2022-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -476,6 +469,13 @@
   </url>
   
   <url>
+    <loc>https://happyking.top/tags/Vercel%F0%9F%A7%87/</loc>
+    <lastmod>2022-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://happyking.top/tags/%E8%87%AA%E5%BB%BA%E5%9B%BE%E5%BA%8A%F0%9F%8E%AB/</loc>
     <lastmod>2022-07-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -483,7 +483,7 @@
   </url>
   
   <url>
-    <loc>https://happyking.top/tags/Vercel%F0%9F%A7%87/</loc>
+    <loc>https://happyking.top/tags/JavaScript%F0%9F%91%93/</loc>
     <lastmod>2022-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
