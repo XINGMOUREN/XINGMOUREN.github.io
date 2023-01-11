@@ -2,25 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.happyking.top/p/20221127/</loc>
-    
-    <lastmod>2023-01-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.happyking.top/p/567845/</loc>
-    
-    <lastmod>2023-01-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.happyking.top/p/5657897/</loc>
+    
+    <lastmod>2023-01-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.happyking.top/p/5655313787365/</loc>
     
     <lastmod>2023-01-11</lastmod>
     
@@ -56,6 +47,15 @@
   </url>
   
   <url>
+    <loc>https://blog.happyking.top/p/565531/</loc>
+    
+    <lastmod>2023-01-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.happyking.top/p/8945645634564/</loc>
     
     <lastmod>2023-01-11</lastmod>
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://blog.happyking.top/cc/index.html</loc>
+    <loc>https://blog.happyking.top/categories/index.html</loc>
     
     <lastmod>2023-01-11</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://blog.happyking.top/categories/index.html</loc>
+    <loc>https://blog.happyking.top/cc/index.html</loc>
     
     <lastmod>2023-01-11</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://blog.happyking.top/p/5655313787365/</loc>
+    <loc>https://blog.happyking.top/p/20221127/</loc>
     
     <lastmod>2023-01-11</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://blog.happyking.top/p/565531/</loc>
+    <loc>https://blog.happyking.top/p/567845/</loc>
     
     <lastmod>2023-01-11</lastmod>
     
