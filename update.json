@@ -1,1 +1,1 @@
-{"global":0,"info":[{"version":4,"change":[{"flag":"html"}]},{"version":3,"change":[{"flag":"str","value":["/tags/","/archives/","/categories/","/page/"]}]},{"version":2},{"version":1}]}
+{"global":0,"info":[{"version":5,"change":[{"flag":"html"},{"flag":"file","value":["common.css","commentBarrage.js","custom.js","fps.js"]}]},{"version":4},{"version":3,"change":[{"flag":"str","value":["/tags/","/archives/","/categories/","/page/"]}]},{"version":2},{"version":1}]}
