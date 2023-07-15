@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://blog.happyking.top/comments/index.html</loc>
+    
+    <lastmod>2023-07-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.happyking.top/link/index.html</loc>
     
     <lastmod>2023-07-15</lastmod>
@@ -21,6 +30,15 @@
   
   <url>
     <loc>https://blog.happyking.top/gallery/index.html</loc>
+    
+    <lastmod>2023-07-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.happyking.top/categories/index.html</loc>
     
     <lastmod>2023-07-15</lastmod>
     
@@ -165,24 +183,6 @@
   
   <url>
     <loc>https://blog.happyking.top/about/index.html</loc>
-    
-    <lastmod>2023-07-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.happyking.top/comments/index.html</loc>
-    
-    <lastmod>2023-07-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.happyking.top/categories/index.html</loc>
     
     <lastmod>2023-07-15</lastmod>
     
